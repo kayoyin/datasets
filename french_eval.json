@@ -1,0 +1,89 @@
+{
+    "version": 1.1,
+    "data": [
+        {
+            "title": "generated questions",
+            "paragraphs": [
+                {
+                    "context": "Au coeur de l\u2019\u00e9cosyst\u00e8me d\u2019open innovation de CentraleSup\u00e9lec et de l\u2019Universit\u00e9 Paris Saclay, nous avons \u00e9t\u00e9 convaincus en 2017 qu\u2019il fallait changer les codes pour r\u00e9pondre aux \u00e9normes d\u00e9fis et opportunit\u00e9s que cette nouvelle g\u00e9n\u00e9ration de l\u2019IA allait amener \u00e0 l\u2019\u00e9conomie et \u00e0 la soci\u00e9t\u00e9. En mars 2017, les 11 fondateurs d\u2019ILLUIN Technology ont souhait\u00e9 relever ce d\u00e9fi avec l\u2019appui du Groupe Randstad. Le Randstad Innovation Fund est devenu actionnaire d\u2019ILLUIN Technology en juillet 2018. Fran\u00e7ois Beharel, PDG du Groupe Randstad France et Membre du Board du Groupe, N\u00b01 mondial des RH, devient membre du Supervisory Board d\u2019ILLUIN.",
+                    "qas": [
+                        {
+                            "question": "O\u00f9 avons-nous \u00e9t\u00e9 convaincus qu'il fallait changer les codes?",
+                            "answers": [
+                                {
+                                    "text": "Au coeur de l\u2019\u00e9cosyst\u00e8me d\u2019open innovation de CentraleSup\u00e9lec et de l\u2019Universit\u00e9 Paris Saclay",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "CentraleSup\u00e9lec",
+                                    "answer_start": 46
+                                },
+                                {
+                                    "text": "l\u2019Universit\u00e9 Paris Saclay",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "id": 0
+                        },
+                        {
+                            "question": "Quand est-ce que les 11 fondateurs d'ILLUIN Technology on souhait\u00e9 relever ce d\u00e9fi?",
+                            "answers": [
+                                {
+                                    "text": "En mars 2017",
+                                    "answer_start": 291
+                                },
+                                {
+                                    "text": "mars 2017",
+                                    "answer_start": 294
+                                },
+                                {
+                                    "text": "2017",
+                                    "answer_start": 299
+                                }
+                            ],
+                            "id": 1
+                        },
+                        {
+                            "question": "Combien de fondateurs d'ILLUIN Technology ont souhait\u00e9 relever ce d\u00e9fi?",
+                            "answers": [
+                                {
+                                    "text": "11",
+                                    "answer_start": 309
+                                }
+                            ],
+                            "id": 2
+                        },
+                        {
+                            "question": "Qui est devenu actionnaire d'ILLUIN Technology en juillet 2018?",
+                            "answers": [
+                                {
+                                    "text": "Le Randstad Innovation Fund",
+                                    "answer_start": 405
+                                },
+                                {
+                                    "text": "Randstad Innovation Fund",
+                                    "answer_start": 408
+                                },
+                                {
+                                    "text": "Randstad",
+                                    "answer_start": 408
+                                }
+                            ],
+                            "id": 3
+                        },
+                        {
+                            "question": "Qui est le PDG du Groupe Randstad France?",
+                            "answers": [
+                                {
+                                    "text": "Fran\u00e7oois Beharel",
+                                    "answer_start": 493
+                                }
+                            ],
+                            "id": 4
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
